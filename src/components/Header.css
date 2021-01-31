@@ -1,0 +1,14 @@
+.app-header {
+  border-bottom: 1px solid rgb(94, 192, 48);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-header-logo {
+  width: 100%;
+  max-width: 940px;
+  height: auto;
+  /* height: 100%;
+  max-height: 348px; */
+}
